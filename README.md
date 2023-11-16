@@ -1,8 +1,8 @@
-##Leitura de nomes e sexo
+## Leitura de nomes e sexo
 
 Este projeto demonstra como ler nomes e sexos de pessoas separados por vírgula ou traço e imprimir os nomes ordenados por grupo e gênero.
 
-##Parte um
+## Parte um
 A parte um do projeto lê nomes separados por vírgula. O código é o seguinte:
 
 java
